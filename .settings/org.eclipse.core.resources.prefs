@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/jsoft/ConnectionPool.java=UTF-8
+encoding//src/main/java/jsoft/ConnectionPoolImpl.java=UTF-8
+encoding//src/main/java/jsoft/ShareControl.java=UTF-8
+encoding//src/main/java/jsoft/gui/article/ArticleControl.java=UTF-8
+encoding//src/main/java/jsoft/gui/article/ArticleImpl.java=UTF-8
+encoding//src/main/java/jsoft/gui/article/ArticleLibrary.java=UTF-8
+encoding//src/main/java/jsoft/gui/article/ArticleModel.java=UTF-8
+encoding//src/main/java/jsoft/gui/basic/Basic.java=UTF-8
+encoding//src/main/java/jsoft/gui/basic/BasicImpl.java=UTF-8
